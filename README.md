@@ -25,7 +25,7 @@ The data on rides were group into 3 primary city types: Rural, Suburban, Urban.
 ## Analysis Summary
 Based on the results, below are three recommendations that would enhance Pyber’s model: 
 
-•	Increase presence & number of drives in the Rural areas, as maybe the average fare price may be slightly higher than what riders would expect. 
-•	Reallocate number of drivers in Urban areas and incentivize them to take rides in Suburban or Rural areas as there is an abundance of drivers in Urban cities.
-•	Continue to focus on having enough supply of drivers in Urban areas as that is where there is the highest demand of rides and generates the highest total fares.
+* Increase presence & number of drives in the Rural areas, as maybe the average fare price may be slightly higher than what riders would expect. 
+* Reallocate number of drivers in Urban areas and incentivize them to take rides in Suburban or Rural areas as there is an abundance of drivers in Urban cities.
+* Continue to focus on having enough supply of drivers in Urban areas as that is where there is the highest demand of rides and generates the highest total fares.
 ![image](https://user-images.githubusercontent.com/93288351/152630199-797b5de9-75c9-418a-9940-6fff1f2d8cba.png)
